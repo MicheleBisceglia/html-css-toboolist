@@ -1,9 +1,17 @@
 header {
     background-color: blueviolet;/*Colore Momentaneo*/
     line-height: 20px;
+    
+}
+
+ul {
+    margin-left: 20%;
 }
     
 }
 #logo-text {
    font-size: 30px;
+   
+}
+
 }
