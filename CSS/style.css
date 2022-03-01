@@ -1,17 +1,31 @@
-header {
-    background-color: blueviolet;/*Colore Momentaneo*/
-    line-height: 20px;
-    
-}
+body {background-color: #f6f8f9;}
 
-ul {
-    margin-left: 20%;
-}
+header {
+    background-color: #ffffff;/*Colore Momentaneo*/
+    line-height: 20px;
+    }
     
-}
 #logo-text {
    font-size: 30px;
    
 }
-
+#button {
+    margin-left: 5%;
+    margin-top: 10px;
 }
+
+#button1 {
+    background-color: #45abea;
+    border-radius: 5%;
+    margin: 0px;
+    color: #ffffff;
+}
+
+
+main {
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px;
+    }
+
